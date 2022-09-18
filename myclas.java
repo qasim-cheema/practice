@@ -1,3 +1,5 @@
 public class myclas {
-    sss
+    public static void main(String[] args) {
+        
+    }
 }
